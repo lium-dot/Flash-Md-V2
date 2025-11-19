@@ -9,7 +9,7 @@
 - **STAR REPO AND THEN** [FORK IT](https://github.com/franceking1/Flash-Md-V2/fork) 
 - **GET SESSION ID USING** [FLASH-MD SESSIONS](https://fixed-sessions.onrender.com) 
 
-- [**TRY VERSION 3 HERE**](https://host-yqmf.onrender.com) Which doesn't require deployment. 
+- [**TRY VERSION 3 HERE**](https://host-flash-v3.onrender.com) Which doesn't require deployment. 
 ---
 ### 🚀 Deployment Platforms:
 

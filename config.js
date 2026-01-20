@@ -13,7 +13,7 @@ function mapPresence(val) {
 
 module.exports = {
     prefixes: process.env.PREFIX
-        ? process.env.PREFIX.split(',').map(p => p.trim())
+        ? process.env.PREFIX.split('.').map(p => p.trim())
         : ['¶'],
 
     NUMBER: process.env.YOUR_NUMBER || '254758443111',
